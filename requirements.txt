@@ -1,0 +1,4 @@
+pymongo[srv]
+requests
+wikipedia-api
+beautifulsoup4
